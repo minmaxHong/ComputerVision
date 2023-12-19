@@ -1,7 +1,8 @@
-컴퓨터 비전의 다양한 알고리즘 공부
+# 컴퓨터 비전의 다양한 알고리즘 공부
 
+자세한 내용은 블로그에 작성
 ---
 
-### Region Proposal
-
-1. Selective Search
+##  == 공부한 알고리즘 ==
+Selectivesearch
+IOU
