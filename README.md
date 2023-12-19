@@ -3,5 +3,5 @@
 자세한 내용은 블로그에 작성
 
 ##  == 공부한 알고리즘 ==
-Selectivesearch
-IOU
+* Selectivesearch
+* IOU
