@@ -5,3 +5,9 @@
 ##  == 공부한 알고리즘 ==
 * Selectivesearch
 * IOU
+
+
+## == 논문을 통해 구현한 모델 ==
+
+* AlexNet
+* VGG16
