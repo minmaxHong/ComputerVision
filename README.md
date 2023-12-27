@@ -14,5 +14,7 @@
 ### [Model Chapter 02 : VGG16](https://velog.io/@landsky1234/VGG-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-%EC%BD%94%EB%93%9C-%EA%B5%AC%ED%98%84)
 : VGG 논문 리뷰
 
+### [Model Chapter 03 : ResNet](https://velog.io/@landsky1234/ResNet)
+: ResNet 논문 리뷰
 
 
