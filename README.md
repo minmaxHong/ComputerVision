@@ -17,4 +17,5 @@
 ### [Model Chapter 03 : ResNet](https://velog.io/@landsky1234/ResNet)
 : ResNet 논문 리뷰
 
-
+### [Model Chapter 04 : DnCNN](https://velog.io/@landsky1234/DnCNN-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84)
+: DnCNN 논문 리뷰
