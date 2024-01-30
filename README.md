@@ -20,5 +20,5 @@
 ### [Model Chapter 04 : DnCNN](https://velog.io/@landsky1234/DnCNN-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84)
 : DnCNN 논문 리뷰
 
-### [Model Chapter 05 : LSTM] (https://velog.io/@landsky1234/RNN-LSTM-GRU)
+### [Model Chapter 05 : LSTM](https://velog.io/@landsky1234/RNN-LSTM-GRU)
 : RNN, LSTM 리뷰(삼성주가 예측)
