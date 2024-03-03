@@ -22,3 +22,6 @@
 
 ### [Model Chapter 05 : LSTM](https://velog.io/@landsky1234/RNN-LSTM-GRU)
 : RNN, LSTM 리뷰(삼성주가 예측)
+
+### [Model Chapter 06 : SENet](https://velog.io/@landsky1234/Squeeze-and-Excitation-Networks)
+: SENet 논문 리뷰
